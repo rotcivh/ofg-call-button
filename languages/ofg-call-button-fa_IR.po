@@ -1,0 +1,305 @@
+# Copyright (C) 2026 weblogbaz
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: OFG Call Button 1.1.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ofg-call-button\n"
+"POT-Creation-Date: 2026-06-27T11:33:58+00:00\n"
+"PO-Revision-Date: 2026-06-23 15:05+0330\n"
+"Last-Translator: weblogbaz\n"
+"Language-Team: Persian <fa@li.org>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Codex\n"
+"X-Domain: ofg-call-button\n"
+
+#. Plugin Name of the plugin
+#: ofg-call-button.php ofg-call-button.php:221 ofg-call-button.php:222
+#: ofg-call-button.php:492 ofg-call-button.php:789
+msgid "OFG Call Button"
+msgstr "دکمه تماس افق"
+
+#. Plugin URI of the plugin
+#: ofg-call-button.php
+msgid "https://github.com/rotcivh/ofg-call-button"
+msgstr "https://github.com/rotcivh/ofg-call-button"
+
+#. Description of the plugin
+#: ofg-call-button.php
+msgid ""
+"Adds a configurable floating call button with per-page overrides and "
+"optional local click statistics."
+msgstr ""
+"یک دکمه تماس شناور و قابل تنظیم با تنظیمات اختصاصی برای هر برگه و آمار کلیک "
+"محلی اختیاری اضافه می‌کند."
+
+#. Author of the plugin
+#: ofg-call-button.php
+msgid "weblogbaz"
+msgstr "weblogbaz"
+
+#. Author URI of the plugin
+#: ofg-call-button.php
+msgid "https://profiles.wordpress.org/weblogbaz/"
+msgstr "https://profiles.wordpress.org/weblogbaz/"
+
+#: ofg-call-button.php:135 ofg-call-button.php:515
+msgid "Call Now"
+msgstr "تماس بگیرید"
+
+#: ofg-call-button.php:232 ofg-call-button.php:233
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ofg-call-button.php:241 ofg-call-button.php:242
+msgid "Reports"
+msgstr "گزارشات"
+
+#: ofg-call-button.php:497
+msgid "Display"
+msgstr "نمایش"
+
+#: ofg-call-button.php:498
+msgid "Display below screen width"
+msgstr "نمایش زیر عرض صفحه"
+
+#: ofg-call-button.php:499
+msgid "Top on mobile"
+msgstr "فاصله از بالا در موبایل"
+
+#: ofg-call-button.php:500
+msgid "Top on tablet"
+msgstr "فاصله از بالا در تبلت"
+
+#: ofg-call-button.php:501
+msgid "Top on desktop"
+msgstr "فاصله از بالا در دسکتاپ"
+
+#: ofg-call-button.php:502
+msgid "Left position"
+msgstr "موقعیت از چپ"
+
+#: ofg-call-button.php:506
+msgid "Phone Numbers"
+msgstr "شماره‌های تلفن"
+
+#: ofg-call-button.php:507
+msgid "Primary phone number"
+msgstr "شماره تلفن اصلی"
+
+#: ofg-call-button.php:508 ofg-call-button.php:509
+msgid "Alternative phone number"
+msgstr "شماره تلفن جایگزین"
+
+#: ofg-call-button.php:510
+msgid "If alternatives are filled, one number is selected for each page view."
+msgstr ""
+"اگر شماره‌های جایگزین وارد شوند، در هر بازدید یکی از شماره‌ها انتخاب می‌شود."
+
+#: ofg-call-button.php:514
+msgid "Appearance"
+msgstr "ظاهر"
+
+#: ofg-call-button.php:515
+msgid "Button text"
+msgstr "متن دکمه"
+
+#: ofg-call-button.php:516
+msgid "Text color"
+msgstr "رنگ متن"
+
+#: ofg-call-button.php:517
+msgid "Bar background"
+msgstr "پس‌زمینه نوار"
+
+#: ofg-call-button.php:518
+msgid "Button color"
+msgstr "رنگ دکمه"
+
+#: ofg-call-button.php:520
+msgid "Icon style"
+msgstr "سبک آیکن"
+
+#: ofg-call-button.php:522
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: ofg-call-button.php:523
+msgid "Solid"
+msgstr "توپر"
+
+#: ofg-call-button.php:529
+msgid "Behavior"
+msgstr "رفتار"
+
+#: ofg-call-button.php:530
+msgid "Hide text on mobile"
+msgstr "پنهان کردن متن در موبایل"
+
+#: ofg-call-button.php:531
+msgid "Hide text on tablet"
+msgstr "پنهان کردن متن در تبلت"
+
+#: ofg-call-button.php:532
+msgid "Hide text on desktop"
+msgstr "پنهان کردن متن در دسکتاپ"
+
+#: ofg-call-button.php:533
+msgid "Enable wave effect"
+msgstr "فعال کردن افکت موج"
+
+#: ofg-call-button.php:534
+msgid "Enable shake effect"
+msgstr "فعال کردن افکت لرزش"
+
+#: ofg-call-button.php:535
+msgid "Enable drag and drop"
+msgstr "فعال کردن کشیدن و رها کردن"
+
+#: ofg-call-button.php:536
+msgid "Enable local click statistics"
+msgstr "فعال‌سازی آمار کلیک محلی"
+
+#: ofg-call-button.php:564
+msgid "Call Reports"
+msgstr "گزارش تماس‌ها"
+
+#: ofg-call-button.php:565
+msgid ""
+"Local call reports show click activity by page, source, referrer, and "
+"landing page."
+msgstr ""
+"گزارش‌های تماس محلی فعالیت کلیک را بر اساس صفحه، منبع، ارجاع‌دهنده و صفحه فرود "
+"نمایش می‌دهند."
+
+#: ofg-call-button.php:567 ofg-call-button.php:583
+msgid "From"
+msgstr "از تاریخ"
+
+#: ofg-call-button.php:568 ofg-call-button.php:587
+msgid "To"
+msgstr "تا تاریخ"
+
+#: ofg-call-button.php:569 ofg-call-button.php:591 ofg-call-button.php:604
+#: ofg-call-button.php:616
+msgid "Source"
+msgstr "منبع"
+
+#: ofg-call-button.php:569 ofg-call-button.php:1452
+msgid "Unknown"
+msgstr "نامشخص"
+
+#: ofg-call-button.php:573
+msgid "Total calls"
+msgstr "کل تماس‌ها"
+
+#: ofg-call-button.php:574
+msgid "Called pages"
+msgstr "صفحات دارای تماس"
+
+#: ofg-call-button.php:575
+msgid "Sources"
+msgstr "منابع"
+
+#: ofg-call-button.php:595
+msgid "Search"
+msgstr "جستجو"
+
+#: ofg-call-button.php:596
+msgid "Page, referrer, source, phone"
+msgstr "صفحه، ارجاع‌دهنده، منبع، تلفن"
+
+#: ofg-call-button.php:598
+msgid "Filter"
+msgstr "فیلتر"
+
+#: ofg-call-button.php:603
+msgid "Calls by page"
+msgstr "تماس‌ها بر اساس صفحه"
+
+#: ofg-call-button.php:603 ofg-call-button.php:614
+msgid "Page"
+msgstr "صفحه"
+
+#: ofg-call-button.php:603 ofg-call-button.php:604
+msgid "Calls"
+msgstr "تماس‌ها"
+
+#: ofg-call-button.php:604
+msgid "Calls by source"
+msgstr "تماس‌ها بر اساس منبع"
+
+#: ofg-call-button.php:608
+msgid "Recent call details"
+msgstr "جزئیات تماس‌های اخیر"
+
+#: ofg-call-button.php:613
+msgid "Time"
+msgstr "زمان"
+
+#: ofg-call-button.php:615
+msgid "Phone"
+msgstr "تلفن"
+
+#: ofg-call-button.php:617
+msgid "Referrer"
+msgstr "ارجاع‌دهنده"
+
+#: ofg-call-button.php:618
+msgid "Landing page"
+msgstr "صفحه ورود"
+
+#: ofg-call-button.php:623
+msgid "No call events found for these filters."
+msgstr "برای این فیلترها هیچ رویداد تماسی پیدا نشد."
+
+#: ofg-call-button.php:633
+msgid "Direct/unknown"
+msgstr "مستقیم/نامشخص"
+
+#: ofg-call-button.php:812
+msgid "Disable on this content"
+msgstr "غیرفعال کردن برای این محتوا"
+
+#: ofg-call-button.php:816
+msgid "Custom phone number"
+msgstr "شماره تلفن سفارشی"
+
+#: ofg-call-button.php:1060
+msgid "Tracking is disabled."
+msgstr "ردیابی غیرفعال است."
+
+#: ofg-call-button.php:1277
+msgid "OFG Call Button Clicks"
+msgstr "کلیک‌های دکمه تماس افق"
+
+#: ofg-call-button.php:1298
+msgid "Total clicks"
+msgstr "کل کلیک‌ها"
+
+#: ofg-call-button.php:1299
+msgid "Today"
+msgstr "امروز"
+
+#: ofg-call-button.php:1300
+msgid "Last 7 days"
+msgstr "۷ روز گذشته"
+
+#: ofg-call-button.php:1448
+msgid "No data."
+msgstr "داده‌ای وجود ندارد."
+
+#: ofg-call-button.php:1569
+msgid "Call button clicks over the last 30 days"
+msgstr "کلیک‌های دکمه تماس در ۳۰ روز گذشته"
+
+#. translators: %d: clicks count.
+#: ofg-call-button.php:1580
+#, php-format
+msgid "%d click"
+msgid_plural "%d clicks"
+msgstr[0] "%d کلیک"
+msgstr[1] "%d کلیک"

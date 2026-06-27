@@ -1,0 +1,308 @@
+# Copyright (C) 2026 weblogbaz
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: OFG Call Button 1.1.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ofg-call-button\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-27T11:33:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: ofg-call-button\n"
+
+#. Plugin Name of the plugin
+#: ofg-call-button.php
+#: ofg-call-button.php:221
+#: ofg-call-button.php:222
+#: ofg-call-button.php:492
+#: ofg-call-button.php:789
+msgid "OFG Call Button"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: ofg-call-button.php
+msgid "https://github.com/rotcivh/ofg-call-button"
+msgstr ""
+
+#. Description of the plugin
+#: ofg-call-button.php
+msgid "Adds a configurable floating call button with per-page overrides and optional local click statistics."
+msgstr ""
+
+#. Author of the plugin
+#: ofg-call-button.php
+msgid "weblogbaz"
+msgstr ""
+
+#. Author URI of the plugin
+#: ofg-call-button.php
+msgid "https://profiles.wordpress.org/weblogbaz/"
+msgstr ""
+
+#: ofg-call-button.php:135
+#: ofg-call-button.php:515
+msgid "Call Now"
+msgstr ""
+
+#: ofg-call-button.php:232
+#: ofg-call-button.php:233
+msgid "Settings"
+msgstr ""
+
+#: ofg-call-button.php:241
+#: ofg-call-button.php:242
+msgid "Reports"
+msgstr ""
+
+#: ofg-call-button.php:497
+msgid "Display"
+msgstr ""
+
+#: ofg-call-button.php:498
+msgid "Display below screen width"
+msgstr ""
+
+#: ofg-call-button.php:499
+msgid "Top on mobile"
+msgstr ""
+
+#: ofg-call-button.php:500
+msgid "Top on tablet"
+msgstr ""
+
+#: ofg-call-button.php:501
+msgid "Top on desktop"
+msgstr ""
+
+#: ofg-call-button.php:502
+msgid "Left position"
+msgstr ""
+
+#: ofg-call-button.php:506
+msgid "Phone Numbers"
+msgstr ""
+
+#: ofg-call-button.php:507
+msgid "Primary phone number"
+msgstr ""
+
+#: ofg-call-button.php:508
+#: ofg-call-button.php:509
+msgid "Alternative phone number"
+msgstr ""
+
+#: ofg-call-button.php:510
+msgid "If alternatives are filled, one number is selected for each page view."
+msgstr ""
+
+#: ofg-call-button.php:514
+msgid "Appearance"
+msgstr ""
+
+#: ofg-call-button.php:515
+msgid "Button text"
+msgstr ""
+
+#: ofg-call-button.php:516
+msgid "Text color"
+msgstr ""
+
+#: ofg-call-button.php:517
+msgid "Bar background"
+msgstr ""
+
+#: ofg-call-button.php:518
+msgid "Button color"
+msgstr ""
+
+#: ofg-call-button.php:520
+msgid "Icon style"
+msgstr ""
+
+#: ofg-call-button.php:522
+msgid "Classic"
+msgstr ""
+
+#: ofg-call-button.php:523
+msgid "Solid"
+msgstr ""
+
+#: ofg-call-button.php:529
+msgid "Behavior"
+msgstr ""
+
+#: ofg-call-button.php:530
+msgid "Hide text on mobile"
+msgstr ""
+
+#: ofg-call-button.php:531
+msgid "Hide text on tablet"
+msgstr ""
+
+#: ofg-call-button.php:532
+msgid "Hide text on desktop"
+msgstr ""
+
+#: ofg-call-button.php:533
+msgid "Enable wave effect"
+msgstr ""
+
+#: ofg-call-button.php:534
+msgid "Enable shake effect"
+msgstr ""
+
+#: ofg-call-button.php:535
+msgid "Enable drag and drop"
+msgstr ""
+
+#: ofg-call-button.php:536
+msgid "Enable local click statistics"
+msgstr ""
+
+#: ofg-call-button.php:564
+msgid "Call Reports"
+msgstr ""
+
+#: ofg-call-button.php:565
+msgid "Local call reports show click activity by page, source, referrer, and landing page."
+msgstr ""
+
+#: ofg-call-button.php:567
+#: ofg-call-button.php:583
+msgid "From"
+msgstr ""
+
+#: ofg-call-button.php:568
+#: ofg-call-button.php:587
+msgid "To"
+msgstr ""
+
+#: ofg-call-button.php:569
+#: ofg-call-button.php:591
+#: ofg-call-button.php:604
+#: ofg-call-button.php:616
+msgid "Source"
+msgstr ""
+
+#: ofg-call-button.php:569
+#: ofg-call-button.php:1452
+msgid "Unknown"
+msgstr ""
+
+#: ofg-call-button.php:573
+msgid "Total calls"
+msgstr ""
+
+#: ofg-call-button.php:574
+msgid "Called pages"
+msgstr ""
+
+#: ofg-call-button.php:575
+msgid "Sources"
+msgstr ""
+
+#: ofg-call-button.php:595
+msgid "Search"
+msgstr ""
+
+#: ofg-call-button.php:596
+msgid "Page, referrer, source, phone"
+msgstr ""
+
+#: ofg-call-button.php:598
+msgid "Filter"
+msgstr ""
+
+#: ofg-call-button.php:603
+msgid "Calls by page"
+msgstr ""
+
+#: ofg-call-button.php:603
+#: ofg-call-button.php:614
+msgid "Page"
+msgstr ""
+
+#: ofg-call-button.php:603
+#: ofg-call-button.php:604
+msgid "Calls"
+msgstr ""
+
+#: ofg-call-button.php:604
+msgid "Calls by source"
+msgstr ""
+
+#: ofg-call-button.php:608
+msgid "Recent call details"
+msgstr ""
+
+#: ofg-call-button.php:613
+msgid "Time"
+msgstr ""
+
+#: ofg-call-button.php:615
+msgid "Phone"
+msgstr ""
+
+#: ofg-call-button.php:617
+msgid "Referrer"
+msgstr ""
+
+#: ofg-call-button.php:618
+msgid "Landing page"
+msgstr ""
+
+#: ofg-call-button.php:623
+msgid "No call events found for these filters."
+msgstr ""
+
+#: ofg-call-button.php:633
+msgid "Direct/unknown"
+msgstr ""
+
+#: ofg-call-button.php:812
+msgid "Disable on this content"
+msgstr ""
+
+#: ofg-call-button.php:816
+msgid "Custom phone number"
+msgstr ""
+
+#: ofg-call-button.php:1060
+msgid "Tracking is disabled."
+msgstr ""
+
+#: ofg-call-button.php:1277
+msgid "OFG Call Button Clicks"
+msgstr ""
+
+#: ofg-call-button.php:1298
+msgid "Total clicks"
+msgstr ""
+
+#: ofg-call-button.php:1299
+msgid "Today"
+msgstr ""
+
+#: ofg-call-button.php:1300
+msgid "Last 7 days"
+msgstr ""
+
+#: ofg-call-button.php:1448
+msgid "No data."
+msgstr ""
+
+#: ofg-call-button.php:1569
+msgid "Call button clicks over the last 30 days"
+msgstr ""
+
+#. translators: %d: clicks count.
+#: ofg-call-button.php:1580
+#, php-format
+msgid "%d click"
+msgid_plural "%d clicks"
+msgstr[0] ""
+msgstr[1] ""
